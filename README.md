@@ -11,32 +11,39 @@ Workings
 <p>2. Adding a to-do</p>
 <img src="https://github.com/iamrockstarabhi/To-Do-List/assets/89914294/d7d1b0a4-e746-428e-826c-aabe8ebc67ce" alt="Adding a to-do">
 
-<p></p>
-<img src="" alt="">
+<br>
 
-<p></p>
-<img src="" alt="">
+<p>3. Todo added</p>
+<img src="https://github.com/iamrockstarabhi/To-Do-List/assets/89914294/17bf1cc0-7dec-41e1-8653-14954070abfa" alt="Todo added">
 
-<p></p>
-<img src="" alt="">
+<br>
 
-<p></p>
-<img src="" alt="">
+<p>4. Multiple todos</p>
+<img src="https://github.com/iamrockstarabhi/To-Do-List/assets/89914294/52657269-2f13-401e-a243-6c872deb7691" alt="Multiple todos">
 
-<p></p>
-<img src="" alt="">
+<br>
 
-<p></p>
-<img src="" alt="">
+<p>5. Deleting a todo</p>
+<img src="https://github.com/iamrockstarabhi/To-Do-List/assets/89914294/1ee4be6b-35ec-4db8-b427-eb1fef44e7a1" alt="Deleting a todo">
 
-<p></p>
-<img src="" alt="">
+<br>
 
-<p></p>
-<img src="" alt="">
+<p>6. Todo deleted</p>
+<img src="https://github.com/iamrockstarabhi/To-Do-List/assets/89914294/8ee2514a-89da-4d5c-ba3b-5bda7b992a82" alt="Todo deleted">
 
-<p></p>
-<img src="" alt="">
+<br>
 
-<p></p>
-<img src="" alt="">
+<p>7. Clearing your items</p>
+<img src="https://github.com/iamrockstarabhi/To-Do-List/assets/89914294/d57c429f-59b6-410f-b682-7d89fa580213" alt="Clearing your items">
+
+<br>
+
+<p>8. Clearing your items confirmation</p>
+<img src="https://github.com/iamrockstarabhi/To-Do-List/assets/89914294/bf40c769-bf48-48b0-8442-e2bf8b969480" alt="Clearing your items confirmation">
+
+<br>
+
+<p>9. List cleared</p>
+<img src="https://github.com/iamrockstarabhi/To-Do-List/assets/89914294/6969bf4f-5e86-4ca1-bf6c-1e1d13006af0" alt="List cleared">
+
+<br>
