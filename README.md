@@ -1,18 +1,18 @@
 # To-Do List
 
-<h3>About this project</h3>
+<h2>About this project</h2>
 
-<p>This is a simple To-do web application to add your TODOs. A to-do list is a list of tasks or items that you have to accomplish during a specific period of time e.g. a day, a week, or even a portion of the day. These lists often have manageable tasks and help people to be productive and avoid procrastination.</p>
+<p>This is a simple To-do web application to add your TODOs.
+  A to-do list is a list of tasks or items that you have to accomplish during a specific period of time e.g. a day, a week, or even a portion of the day. These lists often have manageable tasks and help people to be productive and avoid procrastination.</p>
 
-<h5>Requirements:</h5>
+<h4>Requirements:</h4>
 <ul>
   <li>Web Browser</li>
   <li>VS Code</li>
 </ul>
 
 <br>
-<br>
-<h5>Demo:</h5>
+<h4>Demo:</h4>
 
 <p>1. Home Screen</p>
 <img src="https://github.com/iamrockstarabhi/To-Do-List/assets/89914294/329e13cc-f831-4a21-bd1f-534d216ad370" alt="Home Screen" height="420px" width="840px"><br>
