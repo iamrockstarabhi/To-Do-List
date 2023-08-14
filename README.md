@@ -2,7 +2,7 @@
 
 <h2>About this project</h2>
 
-<p>This is a simple To-do web application to add your TODOs.
+<p>This is a simple To-do web application to add your TODOs.<br>
   A to-do list is a list of tasks or items that you have to accomplish during a specific period of time e.g. a day, a week, or even a portion of the day. These lists often have manageable tasks and help people to be productive and avoid procrastination.</p>
 
 <h4>Requirements:</h4>
@@ -55,6 +55,6 @@
 <br>
 
 <p>9. List cleared</p>
-<img src="https://github.com/iamrockstarabhi/To-Do-List/assets/89914294/6969bf4f-5e86-4ca1-bf6c-1e1d13006af0" alt="List cleared" height="420px" width="840px"><br>
+<img src="https://github.com/iamrockstarabhi/To-Do-List/assets/89914294/87e56ce3-f24b-40c0-ab04-c966a439b6e6" alt="List cleared" height="420px" width="840px"><br>
 
 <br>
